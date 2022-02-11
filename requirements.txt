@@ -94,7 +94,6 @@ openpyxl==3.0.9
 openwisp-utils==0.7.5
 packaging==21.0
 passlib==1.7.2
-PDFNetPython3==8.1.0
 pexpect==4.6.0
 Pillow==8.4.0
 protobuf==3.19.1
